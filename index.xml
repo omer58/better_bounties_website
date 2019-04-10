@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Better Bug Bounties</title>
+    <link>http://betterbugbounties.io.s3-website-us-west-2.amazonaws.com/</link>
+    <description>Recent content on Better Bug Bounties</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, University of Maryland; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 19 Apr 2018 10:35:32 -0400</lastBuildDate>
+    
+	<atom:link href="http://betterbugbounties.io.s3-website-us-west-2.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://betterbugbounties.io.s3-website-us-west-2.amazonaws.com/contact/</link>
+      <pubDate>Thu, 19 Apr 2018 10:35:32 -0400</pubDate>
+      
+      <guid>http://betterbugbounties.io.s3-website-us-west-2.amazonaws.com/contact/</guid>
+      <description>Please contact us at zhanif@umd.edu.</description>
+    </item>
+    
+    <item>
+      <title>Faq</title>
+      <link>http://betterbugbounties.io.s3-website-us-west-2.amazonaws.com/faq/</link>
+      <pubDate>Wed, 18 Apr 2018 20:43:09 -0400</pubDate>
+      
+      <guid>http://betterbugbounties.io.s3-website-us-west-2.amazonaws.com/faq/</guid>
+      <description>1. WHY ARE YOU CONTACTING ME? We are a group of graduate students currently researching the motivations of high-performing vulnerability researchers who participate in public bug bounty programs. We got your contact information from your public  profile. You were selected due to your historical performance across bug bounties, and your overall ranking. We are seeking your participation in a study to help us better understand what could motivate people like yourself it participate in a particular bounty program.</description>
+    </item>
+    
+  </channel>
+</rss>

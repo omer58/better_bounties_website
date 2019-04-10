@@ -1,0 +1,25 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.box-logo {
+
+  min-height: 100px;
+  margin-bottom: 15px;
+}
+
+.center-logo{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
